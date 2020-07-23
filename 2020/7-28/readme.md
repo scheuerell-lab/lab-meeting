@@ -33,4 +33,19 @@
 * Discuss ESA's structure and options for ECR's 
 
 
+# Ideas for future meetings
+
+* paper discussion (topics?)
+
+* joint lab project/paper
+
+    - module for SEAS
+    
+    - review paper
+    
+    - meta-analysis
+ 
+* Coding skills / intro to R packages
+
+
 # Action items
