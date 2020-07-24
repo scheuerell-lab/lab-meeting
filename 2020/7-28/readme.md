@@ -3,11 +3,14 @@
 ## 28 July 2020
 
 
+* First five-ish minutes: Check in from everyone _(I like this practice from other groups I'm part of, where everyone has a minute at the start of the meeting to share how they're doing, any science or non-science happenings in their lives they want to share, etc. - Kelly)_
+
 # Announcements
 
 * It's starting to look like the university will be scaled back from the original plans for re-opening
 
 * Markus is moving to Seattle in August
+
 
 
 # DEI
