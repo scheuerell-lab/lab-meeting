@@ -49,3 +49,5 @@
 
 
 # Action items
+
+* Demo github/markdown lab journal format from Mark
