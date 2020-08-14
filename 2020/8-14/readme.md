@@ -44,6 +44,8 @@
 
 * paper discussion (Kelly brought this up)
 
+* discussion on normalizing the importance of good mental health
+
 
 # Lab journal demo
 
