@@ -33,6 +33,7 @@
 * Thanks everyone for their bios & pics for the website; all of them are posted
 
 * Mark has been in discussions with Nicole Doran, a Native American woman & prospective student, about joining our lab in 2021
+* Dara wants to get feedback on partnering with researchers and students from other universities. What's the procedure?
 
 
 # Societies/conferences
