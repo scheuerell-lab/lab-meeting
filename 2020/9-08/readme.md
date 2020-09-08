@@ -1,6 +1,6 @@
  # Agenda
 
-## 25 August 2020
+## 8 Sept 2020
 
 
 # Check-in
@@ -17,7 +17,7 @@
 
 * Questions from Kelly and Markus regarding student letter to SAFS leadership?
 
-* Thoughts from Mark about format/tone
+* Thoughts from Mark about format/tone of letter
 
 
 # Lab scavenger hunt and 1-slide lab introduction
