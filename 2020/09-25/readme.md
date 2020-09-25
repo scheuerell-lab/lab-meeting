@@ -14,7 +14,7 @@
 
 * [SAFS Fall Kickoff](https://www.youtube.com/watch?v=aodExBb_2yk) (9/28 @ 3:00-4:30; [Zoom info](https://washington.zoom.us/j/98923029213))
 
-* Lab scavenger hunt introductions?
+* Lab scavenger hunt & 1-slide introductions?
 
 
 # SAFS orientation for grad students
