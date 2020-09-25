@@ -16,6 +16,8 @@
 
 * Lab scavenger hunt & 1-slide introductions?
 
+* [Kelly's website](https://www.kellyrmistry.com/) is now live!
+
 
 # SAFS orientation for grad students
 
