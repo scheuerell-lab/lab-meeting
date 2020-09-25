@@ -30,6 +30,8 @@
 
 * Look for forthcoming letter from Andre re: response to grad students
 
+* Grad student town hall with Steven - 2:30 TODAY (https://washington.zoom.us/my/sr320)
+
 
 # Faculty retreat
 
