@@ -12,11 +12,11 @@
 
 * WACFWRU Annual Cooperators meeting (Oct 21)
 
-* WACFWRU Student Symposium (Oct 28); [Zoom info](https://washington.zoom.us/j/95571608368)
+* WACFWRU Student Symposium (3-6 PDT, Oct 28); [Zoom info](https://washington.zoom.us/j/95571608368)
 
 * Upcoming joint lab meeting with Olden & Berdahl Labs on Nov 4; start working on slides
 
-* Still looking for ideas for lab meetings
+* Still looking for ideas for lab meetings; Kelly brought up idea of having a joint lab meeting with the primary topic being the contents of the student's September letter (with possibly Ray Hilborn's lab being one that we could approach)
 
 
 # DEI
@@ -35,6 +35,6 @@
 
 # USGS/CRU
 
-* Kelly and Markus set up on **Digital Measures** and **DOI Talent**
+* Navigating through **Digital Measures**
 
-* Sarah is looking for help with pics for the CRU website
+* Pics for the CRU website
