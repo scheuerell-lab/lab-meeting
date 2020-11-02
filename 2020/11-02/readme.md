@@ -17,11 +17,16 @@
 * Still looking for ideas for lab meetings; Kelly brought up idea of having a joint lab meeting with the primary topic being the contents of the student's September letter (with possibly Ray Hilborn's lab being one that we could approach)
 
 
+# Students
+
+* meeting with Jaida & Cam this AM to discuss Jaida's future
+
+* meeting with other potential students
+
+
 # DEI
 
 * Did everyone see letter from Andre re: DEI efforts? 11/03 faculty mtg will spend *some* time discussing this and Staci's response
-
-* 
 
 
 # Seminars
