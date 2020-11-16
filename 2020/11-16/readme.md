@@ -22,6 +22,11 @@
 * Mark continues to meet with potential students
 
 
+# Lab
+
+* Mark wants help with a digital lab manual
+
+
 # DEI
 
 * SAFS Equity & Inclusion Annual Open Meeting (today @ 12:00)
