@@ -12,7 +12,7 @@
 
 * Joint lab meeting with Olden & Berdahl Labs on Wed (Nov 18)
 
-* Future lab meeting with otehr (Hilborn?) lab to discuss DEI issues?
+* Future lab meeting with other (Hilborn?) lab to discuss DEI issues?
 
 
 # Students
@@ -31,7 +31,7 @@
 
 * SAFS Equity & Inclusion Annual Open Meeting (today @ 12:00)
 
-* SAFS outside audit will be discussed at tomorrow's faculty mtg
+* SAFS outside audit will be discussed at tomorrow's faculty meeting
 
 
 # Seminars
@@ -42,7 +42,7 @@
 
 * Fish & Wildlife (Jan - May)
 
-    - see Google drive info
+    - see Google Drive info
     
     - start inviting people
 
@@ -50,3 +50,11 @@
 # USGS/CRU
 
 * We had a meet-and-greet with the new chief of USGS (Jonathan Mawdsley) on 11/13
+
+
+# Future meetings
+
+* Virtual holiday party /games on Dec 14?
+
+* Days/times for lab meeting in winter quarter?
+
