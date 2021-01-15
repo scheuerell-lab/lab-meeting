@@ -39,14 +39,13 @@
 * No news on the SAFS outside audit other than Andre and Staci Amburgey are in touch with the consulting group
 
 
-
 # Seminars
 
 * Fish & Wildlife (Mon @ 4:00, Jan - May)
 
-    - see Google Drive info
+    - see [Google Drive](https://drive.google.com/drive/folders/0AJVMCIpK1tkXUk9PVA) for info
     
-    - Mark & Markus have invited several people; schedule starting to take shape
+    - Still need some info from Sophie Gilbert, but others are complete
     
 * Bevan (Thurs @ 4:30)
 
