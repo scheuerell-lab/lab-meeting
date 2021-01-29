@@ -47,6 +47,8 @@
     
     - All of our seminar info for Winter Qtr is complete
     
+    - Question from Dara: Any updates from Dan on which account is used to store the cloud recordings of the seminars for retrieval?
+    
 * Bevan (Thurs @ 4:30)
 
     - Mark *really* enjoyed Erika Zavaleta's seminar
