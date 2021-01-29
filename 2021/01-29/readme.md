@@ -50,6 +50,7 @@
 * Bevan (Thurs @ 4:30)
 
     - Mark *really* enjoyed Erika Zavaleta's seminar
+        - Markus did too!
 
 * SAFS quantitative (Fri @ 12:30)
 
