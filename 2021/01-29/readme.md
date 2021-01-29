@@ -10,7 +10,7 @@
 
 # Announcements
 
-* 
+* Keeler Family & Brock Mansfield have donated $100k to support students working on salmonids
 
 
 # Students
