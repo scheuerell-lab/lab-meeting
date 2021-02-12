@@ -22,7 +22,6 @@
     * Mark is hoping to find a time for Kelly, Markus, and Karl to chat with some prospective students (perhaps on Fri?)
 
 
-
 # Post-docs
 
 * Dara & Mark are working on visa and employment options
@@ -42,7 +41,6 @@
 * Andre mentioned at our faculty mtg on Tues that the audit was moving forward, but I don't have any details yet
 
 
-
 # USGS/CRU
 
 * AUL - Wildlife search is ongoing
@@ -59,11 +57,13 @@
 
 * New boat is coming along & should be finished next month
 
-![]()
+![](nr_1.jpg)
+
+![](nr_2.jpg)
 
 * Looking for a date in March to inventory equipment at Sand Point
 
 
 # Future meetings
 
-* Future lab meeting with Hilborn Lab (and others) at 4:00 PM on Feb 23 to discuss work-life balance 
+* Still waiting to hear about a future meeting with Hilborn Lab (and others) at 4:00 PM on Feb 23 to discuss work-life balance 
