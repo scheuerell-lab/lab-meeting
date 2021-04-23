@@ -12,7 +12,7 @@
 
 * Please provide an update of your activities over the past 2 weeks
 
-* Humor or help?
+* Any [Humor](https://dilbert.com/strip/2021-04-23) or [help](https://moodymudskipper.github.io/flow/index.html)? 
 
 
 # Announcements
@@ -20,6 +20,7 @@
 * USGS Research work orders (RWOs) have cleared the secretary's office and have moved on to contracting!
 
     - Funds for Markus' rockfish project are at UW with a budget number   
+  
     - Emails received for other 3 projects, but no word yet from grants & contracting
 
 
@@ -35,6 +36,12 @@
 
 # Lab
 
+* Lab & office suite
+
+    - Jon Wittouck is working to clear out our lab and office suite  
+   
+    - should be done by end of quarter
+   
 * Digital lab manual
 
     - [Rendered version](https://scheuerell-lab.github.io/lab-book/)
@@ -50,7 +57,7 @@
 
 * See recent email from Michael Martinez re: internal equity audit
 
-* SAFS360 committee released draft Code of Conduct  
+* SAFS360 committee released [draft Code of Conduct](https://github.com/scheuerell-lab/lab-meeting/blob/master/2021/04-23/DRAFT%20SAFS%20Code%20of%20Conduct.pdf)  
 
     - looking for feedback  
 
