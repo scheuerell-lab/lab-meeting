@@ -38,9 +38,9 @@
 
 * Lab & office suite
 
-    - Jon Wittouck is working to clear out our lab and office suite  
+    - Mark is working with Jon Wittouck to find a day/time to go through old stuff  
    
-    - should be done by end of quarter
+    - Mark would like to plan a trip in June after the quarter ends to sort through old equipment/gear left behind by previous Unit staff
    
 * Digital lab manual
 
