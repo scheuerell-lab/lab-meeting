@@ -23,6 +23,13 @@
   
     - Emails received for other 3 projects, but no word yet from grants & contracting
 
+* SAFS Open House sponsored by SEAS
+
+    - Mark is hosting an activity on the salmon life cycle and salmon conservation
+
+    - People can sign up to attend [here](https://docs.google.com/forms/d/e/1FAIpQLScgRlKT5ij8xlUy0DEgl1zR__YdEy4m7tcTldm04TZ4x5KFMQ/viewform)
+
+* Mark met with Simone Des Roches this AM to discuss initial concept ideas for a lab logo
 
 # Students
 
