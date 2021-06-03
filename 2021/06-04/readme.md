@@ -47,7 +47,7 @@
     6) Things I struggle with
     7) Things I love
     8) Other things to know about me
-* Adding conversation norms to lab manual (for us in lab meetings, for example) - ["here is a starting place"](https://docs.google.com/document/d/1m78cHhDd6mX1DGtszd-WvltQmyTsUsO56yTnJKEWuP0/edit?usp=sharing)
+* Adding conversation norms to lab manual (for us in lab meetings, for example) - [here is a starting place](https://docs.google.com/document/d/1m78cHhDd6mX1DGtszd-WvltQmyTsUsO56yTnJKEWuP0/edit?usp=sharing)
 
 # DEI
 
