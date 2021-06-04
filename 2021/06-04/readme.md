@@ -39,7 +39,10 @@
 
     - Mark is planning to spend some time in the lab next week sorting through things
 
-* update on ["personal user manuals"](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694); you can find a `.md` template [here](https://github.com/scheuerell-lab/onboarding/blob/master/templates/personal-user-manual)
+* update on ["personal user manuals"](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694)
+    
+    - you can find a `.md` template [here](https://github.com/scheuerell-lab/onboarding/blob/master/templates/personal-user-manual)
+    - you can find a Google doc template [here](https://drive.google.com/drive/folders/1Zj4hHCBoz7lUOGwVx888uz2vQ-gpfBSd)
 
     1) Conditions I like to work in
     2) The times/hours I like to work
