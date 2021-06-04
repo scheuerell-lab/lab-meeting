@@ -20,7 +20,7 @@
 * Happy last day of the quarter!  
 
 * Our lab health and safety plan was approved  
-    - everyone will need to read and indicate that they ahve done so  
+    - everyone will need to read and indicate that they have done so  
     - everyone will need to fill out the entry/exit sheet  
 
 # Students
