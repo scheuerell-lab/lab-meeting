@@ -19,6 +19,8 @@
 
 * Weclome to the 2021-2022 academic year!
 
+* SAFS faculty retreat is 9/27-9/28
+
 * SAFS kickoff event will be 9/30 from 2-5 on the SAFS front lawn
 
 * Mark will be giving the SAFS seminar on 10/21
@@ -29,6 +31,8 @@
 * Please complete your required training ASAP; ask Mark if you have Q's
 
     - Note that defensive driving is relatively long and requires some additional info from Verna via CRU HQ
+
+* Andrea & Nicole will likely be looking for help during the next few weeks getting oriented to SAFS, courses, etc
 
 
 # Post-docs
