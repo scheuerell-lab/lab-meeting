@@ -19,6 +19,8 @@
 
 * Weclome to the 2021-2022 academic year!
 
+* Please make sure to have your vaccination status verified by Kenyon or Amy
+
 * SAFS faculty retreat is 9/27-9/28
 
 * SAFS kickoff event will be 9/30 from 2-5 on the SAFS front lawn
