@@ -55,6 +55,7 @@
 * Lab manual
 
     - Mark has added several items and updated the publications and presentation sections
+    - Kelly has been working on team collaboration articles that can either be included directly into the lab manual or be linked (currently on her website: https://www.kellyrmistry.com/thoughts/team-collaboration-series - it's not completely done yet, but feedback very welcome! 
 
 # DEI
 
