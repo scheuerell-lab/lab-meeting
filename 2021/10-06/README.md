@@ -23,12 +23,16 @@
     - Hiring a 25/75 teaching/research asst prof WOT
     - DEI initiatives for this year, including responses to equity survey
 
-* Mark will be giving the SAFS seminar on 10/21
+* Thanks to Kelly, Markus, and Nicole for their help with the kickoff last week
+
+* Thanks to Markus for volunteering to coordinate TGIT
 
 
 # Students
 
 * We need to review your job hazard analysis (JHA) in Digital Measures and sign them each year
+
+* How is everyone feeling about SAFS and lab communications via Slack, email, etc?
 
 
 # Post-docs
@@ -61,6 +65,6 @@
 
 * We are into FY2022
 
-* Mark *thinks* everyone is up-to-date; he'll run a report in DM and follow up with people
+* Mark *thinks* everyone is up-to-date on their training, which includes classes in the near future for a few people; he'll run a report in DM and follow up with people, if necessary
 
-* Mark, Sarah & Alex completed wildnerness first aid training; Karl & Markus will do so in Nov
+* Mark, Sarah & Alex completed wildnerness first aid training, which was very good; Karl & Markus will do so in Nov
