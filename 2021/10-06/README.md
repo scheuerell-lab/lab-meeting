@@ -56,6 +56,7 @@
 > 
 > More information about Title IX and the course can be found at Title IX education & prevention here: https://www.washington.edu/titleix/title-ix-education-and-outreach/
 
+
 # Students
 
 * We need to review your job hazard analysis (JHA) in Digital Measures and sign them each year
@@ -65,7 +66,7 @@
 
 # Post-docs
 
-* Dara is set to arrive in Seattle on 30 Oct and will quarantine for a week
+* Dara is set to arrive in Seattle on Oct 30th and will quarantine for a week
 
 
 # Lab
@@ -80,7 +81,7 @@
 * Lab manual
 
     - Kelly has been working on team collaboration articles that can either be included directly into the lab manual or be linked (currently on her website: https://www.kellyrmistry.com/thoughts/team-collaboration-series - it's not completely done yet, but feedback very welcome!
-    - Mark needs to add some info about GitHub accounts
+    - Mark has added some lab-specifc and Husky Card info 
 
 # DEI
 
