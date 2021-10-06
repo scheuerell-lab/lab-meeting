@@ -96,8 +96,8 @@
 
 * Mark, Sarah & Alex completed wildnerness first aid training, which was very good; Karl & Markus will do so in Nov
 
-* (yes, this keeps coming up) It turns out that everyone in the Unit needs to have a __*signed*__ and up-to-date Personal Hazard Assessment (PHA), so please take the following (easy) steps ASAP:
+* (yes, this keeps coming up) It turns out that everyone in the Unit needs to have a signed and up-to-date Personal Hazard Assessment (PHA), so please take the following (easy) steps ASAP:
 
-    1. Go into Digital Measures and review your "My Safety Worksheet" under **Safe at Work** Check each of the questions and make sure the answers are correct based upon what your workdays are like now (this should take you ~5 minutes). 
-    2. Save your changes when finished and ping me on Slack to let me know you are done. 
-    3. I will then pull your PHA and review it with you ar our next regular meeting. When finished, we will both sign the form and I will file it away.
+    1) Go into Digital Measures and review your "My Safety Worksheet" under the **Safe at Work** header. Read through each of the questions and make sure your answers are correct based upon what your workdays are like now (this should take you ~5 min).  
+    2) Save your changes when finished and ping me on Slack to let me know you are done.  
+    3) I will then pull your PHA and review it with you at our next regular meeting. When finished, we will both sign the form and I will file it away.
