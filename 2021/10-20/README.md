@@ -21,6 +21,8 @@
 
 * SAFS grad student symposium (GSS) is Nov 4 in Anderson Hall
 
+* Kelly will give a practice talk today in preparation for GSS
+
 * Conference abstracts need to be approved by CRU HQ; please plan to have Mark review them well in advance of their submission date
 
 
@@ -65,4 +67,4 @@
 
 # USGS/CRU
 
-* Annual Cooperators meeting is/was today
+* Annual Cooperators meeting is/was today; Mark will share some of the highlights
