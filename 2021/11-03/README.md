@@ -12,7 +12,7 @@
 
 * Please provide an update of your activities over the past 2 weeks
 
-* Any humor or help? (Here's something from Mark: [Draw all roads in any city](https://anvaka.github.io/city-roads/)
+* Any humor or help? (Here's something from Mark: [Draw all roads in any city](https://anvaka.github.io/city-roads/))
 
 
 # Announcements
@@ -25,6 +25,8 @@
 # Students
 
 * The quarter is half over--hang in there!
+
+* Please let Mark know if there is anything he could be doing to better support you
 
 
 # Post-docs
