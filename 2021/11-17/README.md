@@ -14,6 +14,9 @@
 
 * Any humor or help?
 
+    - From Mark: https://twitter.com/vianey_lb/status/1459900597709287428  
+    - (If you don't know what a ridgeline plot is, look [here](https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html))
+
 
 # Announcements
 
@@ -36,7 +39,7 @@
 
 * Storage in Old Fish Bldg
 
-    - Mark would like some help with inventory and organization
+    - Mark would like some help with inventory and organization; perhaps in January
 
 * Office suite
 
