@@ -60,6 +60,8 @@
 
 # Items for today
 
+* Discuss equity audit
+
 * Pick a day/time to do [UW Indigenous Walking Tour](https://ais.washington.edu/sites/ais/files/documents/indigenous_walking_tour_at_the_uw.pdf)
 
 * Discuss lab logo designs/colors
