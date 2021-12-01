@@ -13,6 +13,7 @@
 * Please provide an update of your activities over the past 2 weeks
 
 * Any humor or help?
+    * From Mark: [addressing to-do lists](https://twitter.com/danidonovan/status/1465824820638199812/photo/1)
 
 
 # Announcements
@@ -43,11 +44,15 @@
 # DEI
 
 * Mark & Sarah are hosting a post-audit listening session for faculty on Dec 2
+* NOAA NWFSC Seminar on ["Gina k’aadang.nga gii uu tll k’anguudang: Seeking Wise Counsel--Good people working together, drawing on many ways of knowing to govern Haida Gwaii"](https://www.fisheries.noaa.gov/event/monster-seminar-jam-lynn-lee-niisii-guujaww)
+* Whole U seminar [Where do we go from here? The impact of migration on our health and well-being](https://wholeu.admin.washington.edu/uwnetid/twuext/EventDetail.aspx?regid=&eventid=1327&eventsessionid=1315)
  
 
 # USGS/CRU
 
-* Nothing to report
+* Mark finished a report for the CRU DEI committee that summarizes a national poll on mentoring needs of unit staff; some of the biggest needs are:
+    * imposter syndrome, burnout, work-life balance
+    * confronting bias, DEIJ outreach & broader impacts, fostering an inclusive environment & developing a lab culture
 
 
 # Items for today
@@ -72,4 +77,4 @@
         * someone gives (brief) details and results for 3 papers, but 1 is completely fabricated
         * as a group, we try to figure out which is the fake one
 
-* Pick a day/time for get-together
+* Pick a day/time for pre-holiday get-together
