@@ -50,7 +50,7 @@
 
 # USGS/CRU
 
-* Mark finished a report for the CRU DEI committee that summarizes a national poll on mentoring needs of unit staff; some of the biggest needs are:
+* Mark finished a report for the CRU DEI committee that summarizes a national poll on mentoring needs of unit staff; some of the most popular topics are:
     * imposter syndrome, burnout, work-life balance
     * confronting bias, DEIJ outreach & broader impacts, fostering an inclusive environment & developing a lab culture
 
