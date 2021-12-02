@@ -77,4 +77,13 @@
         * someone gives (brief) details and results for 3 papers, but 1 is completely fabricated
         * as a group, we try to figure out which is the fake one
 
+    * **Personal user manual**
+
+    * **Conversation norms**
+
+    * **Joint lab meetings**
+
+    * **Write review/other paper**
+
+
 * Pick a day/time for pre-holiday get-together
