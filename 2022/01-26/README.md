@@ -58,3 +58,8 @@
 
 * Open discussion about equity among labs in SAFS
 
+# Action items
+
+* Grad students should fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScNvJ0rXzL48FmJqybD-Ipxqq6Dk7vc9-cFcGZ9bJ1TbmnFIg/viewform) so your porfile will be featured on the SAFS grad page [here](https://fish.uw.edu/students/graduate-program/meet-our-graduate-students/); note that you will also need a picture in `.jpeg` format
+
+* Please fill out or update your personal user manual. Existing manuals and Kelly's template are located [here](https://drive.google.com/drive/folders/1Zj4hHCBoz7lUOGwVx888uz2vQ-gpfBSd)
