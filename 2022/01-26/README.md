@@ -55,3 +55,6 @@
 # Items for today
 
 * Choose folks to lead future lab meetings; all topics are germane
+
+* Open discussion about equity among labs in SAFS
+
