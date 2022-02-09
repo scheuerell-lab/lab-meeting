@@ -13,7 +13,7 @@
 * Please provide an update of your activities over the past 2 weeks
 
 * Any humor or help?
-    * From Mark: [useful flowchart](https://twitter.com/social_brains/status/1485483019087454209)
+    * From Mark: [RStudio add-in {esquisse}](https://dreamrs.github.io/esquisse/)
 
 
 # Announcements
