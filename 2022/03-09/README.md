@@ -31,7 +31,7 @@
 
 # Students
 
-* Is everyone going to the student retreat at FHL?
+* Any plans for spring break?
 
 
 # Post-docs
