@@ -67,5 +67,7 @@
 
 # Action items
 
+* If you have not already, please complete the Title IX training **by March 17**
+
 * Grad students **please** fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScNvJ0rXzL48FmJqybD-Ipxqq6Dk7vc9-cFcGZ9bJ1TbmnFIg/viewform) so your porfile will be featured on the SAFS grad page [here](https://fish.uw.edu/students/graduate-program/meet-our-graduate-students/); note that you will also need a picture in `.jpeg` format
 
