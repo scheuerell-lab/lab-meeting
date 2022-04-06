@@ -22,7 +22,7 @@
 
 * Dara was named a postdoctoral fellow in the eScience Institute!  
 
-* First-ever SAFS community building event is this afternoon in the SAFS lobby
+* First-ever SAFS community building event is this afternoon from 4:30-6:30 in the SAFS lobby
 
 * Abstract submission deadline for AFS has been extended to April 20th; see info [here](https://afsannualmeeting.fisheries.org/call-for-abstracts-2/)
 
@@ -56,7 +56,7 @@
 
 # USGS/CRU
 
-* Mark and the CRU DEI committee are organizing mentoring sessions for unit scientists on Apr 15
+* Mark and the CRU DEI committee have organized a mentoring sessions for unit scientists on Apr 15
 
 
 # Items for today
