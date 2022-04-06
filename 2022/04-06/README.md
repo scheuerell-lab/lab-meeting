@@ -13,7 +13,7 @@
 * Please provide an update of your activities over the past 2 weeks
 
 * Any humor or help?
-    * From Mark: [cheatsheets for `{ggplot2}`](https://ggplot2tor.com/cheatsheets/)
+    * From Mark: [BioRender for figure design](https://biorender.com/)
 
 
 # Announcements
@@ -30,6 +30,10 @@
     - Meet in the parking lot to the east of SAFS (W35)
     - Mark is working on a to-do list that will include cleaning, maintenance, and inventory  
     - We'll have pizza and drinks afterward
+
+* College of the Environment Spring Celebration will be from 3:00-5:00 on May 5 in the SAFS courtyard
+
+* Dara is organizing an outing to the Henry Art Gallery; fill out the [Doodle Poll](https://doodle.com/meeting/organize/id/zbqw7X7e)
 
 
 # Students
