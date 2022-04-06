@@ -24,6 +24,8 @@
 
 * First-ever SAFS community building event is this afternoon from 4:30-6:30 in the SAFS lobby
 
+* SAFS departmental seminars are now in-person; tomorrow is Matt Farr (postdoc in Sarah's lab & Dara's officemate)
+
 * Abstract submission deadline for AFS has been extended to April 20th; see info [here](https://afsannualmeeting.fisheries.org/call-for-abstracts-2/)
 
 * WACFWRU "Unit Day" will be April 8 beginning at 1:45
