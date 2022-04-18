@@ -13,7 +13,7 @@
 * Please provide an update of your activities over the past 2 weeks
 
 * Any humor or help?
-    * From Mark: [BioRender for figure design](https://biorender.com/)
+    * From Mark: [Taylor Hawkins Drumming Masterclass](https://www.youtube.com/watch?v=PwjEc8S0PRo)
 
 
 # Announcements
