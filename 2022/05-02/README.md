@@ -22,8 +22,7 @@
 
 * College of the Environment Spring Celebration is tomorrow from 3:00-5:00 in the SAFS courtyard
 
-* SAFS departmental seminar this week is on **Wed (May 4) at 4:30**
-    - featuring [Charlie Stock](https://www.gfdl.noaa.gov/charles-stock-homepage/)
+* SAFS departmental seminar this week is on **Wed (May 4) at 4:30** featuring [Charlie Stock](https://www.gfdl.noaa.gov/charles-stock-homepage/)
 
 * Dara is organizing an outing to the Henry Art Gallery from 1:00-2:00 on May 5
 
