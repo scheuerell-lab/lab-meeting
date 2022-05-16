@@ -13,7 +13,7 @@
 * Please provide an update of your activities over the past 2 weeks
 
 * Any humor or help?
-    * From Mark: [team projects](https://dilbert.com/strip/2022-04-24)
+    * From Mark: [12 platforms for finding **free** visuals (icons, stock photos) for your presentations, websites, etc](https://twitter.com/rodriguesjm6/status/1476580189316562953)
 
 
 # Announcements
