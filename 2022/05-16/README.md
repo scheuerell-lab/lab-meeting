@@ -24,7 +24,7 @@
     3) practicing with a throw rope
     - Mark is looking for volunteers (shift 1: 10-1; shift 2: 1-4)
 
-* Kelly's defense is Mon, May 21 at 9:00 AM in Rm 203
+* Kelly's defense is Mon, May 23 at 9:00 AM in Rm 203
     - Mark is looking for help with room setup and procurring some treats
     - Mark is hosting a dinner at his house at 6:00 PM
 
