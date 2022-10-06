@@ -61,5 +61,5 @@
 
 * review PHA's
 
-* annual reviews for students
+* annual reviews for students (review at next week's meetings)
 
