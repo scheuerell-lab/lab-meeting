@@ -18,7 +18,7 @@
 
 # Announcements
 
-* Release the kokanee event on Wed (10/12) was interesting (details [here]([https://www.lakesammamishrefuge.org/upcoming-events/event-one-n5g6s-hbp8y-pxhj9-tnc7w-n3hdt-84f26-p9ewl-2w5fn-pyppc-zcxr2](https://www.seattletimes.com/seattle-news/environment/a-lake-sammamish-salmon-species-has-dwindled-can-this-emergency-hatchery-effort-save-them/)))
+* Release the kokanee event on Wed (10/12) was interesting (details [here](https://www.seattletimes.com/seattle-news/environment/a-lake-sammamish-salmon-species-has-dwindled-can-this-emergency-hatchery-effort-save-them/))
 
 
 # Students
