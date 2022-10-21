@@ -13,7 +13,7 @@
 * Please provide an update of your activities over the past 2 weeks
 
 * Any humor or help?
-    * From Mark: [Google search tips](https://twitter.com/MakadiaHarsh/status/1577275131050827781)
+    * From Mark: [Peer review process](https://twitter.com/dendromecon27/status/1583215313742483456)
 
 
 # Announcements
