@@ -18,10 +18,18 @@
 
 # Announcements
 
+* Connor Lewis-Smith, former SMEA student, has begun working with Mark on the Sea Grant project on prioritizing barrier removals
+
+* Dean Tolstoy is sponsoring a free latte cart in the SAFS lobby on Mon, Dec 5, from 8:30-10:30
+
+* Mark will be skiing in CO from Dec 8-12
+
 * SAFS hoiliday party on Wed, Dec 14, from 3-5  
-    * holiday basket?
+    * Ideas for a holiday basket?
 
 * lab happy hour on the 16th?
+
+* Andrea Richter-Sanchez, an MS student in SMEA, will be an RA in the lab next quarter to help with the DEIJ side of the WDFW project on nearshore toxics
 
 
 # Students
@@ -45,6 +53,8 @@
 
 * Next E&I regular meeting is Dec 7 at 10:00 AM in Rm 105
 
+* Michael Martínez will be leading a "DEI 101" training for the E&I committee on Dec 14
+
 
 # USGS/CRU
 
@@ -59,3 +69,5 @@
 # Action items
 
 * review PHA's
+
+* schedule lab meetings for winter quarter
