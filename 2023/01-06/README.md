@@ -10,7 +10,7 @@
 
 # Round-robin
 
-* Please provide an update of your activities over the past 2 weeks
+* Please provide an update of your activities
 
 * Any humor or help? From Mark:
     > I hate it when people tell me age is just number. It's clearly a word.
