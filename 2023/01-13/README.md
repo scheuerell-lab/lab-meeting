@@ -50,6 +50,8 @@
 
 * Next E&I regular meeting is Feb 7 at 9:30 AM in Rm 105
 
+* Mark is going to invite Michael Martínez (SAFS Diversity Specialist) to facilitate a discussion about the new SAFS Code of Conduct
+
 
 # USGS/CRU
 
