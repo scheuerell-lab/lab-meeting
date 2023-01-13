@@ -7,10 +7,7 @@
 
 * How is everyone doing?
 
-
-# Round-robin
-
-* Please provide an update of your activities
+* Does anyone have anything they'd like to share?
 
 * Any humor or help? From Mark:
     > Jennifer asked me to grab a 6-pack of Sprite on my way home last night, but I picked 7-up instead.
@@ -22,7 +19,9 @@
 
 * Welcome Andrea Richter-Sanchez!
 
-* Bevan Seminar on Thurs at 4:30 in Rm 102
+* Bevan Seminar on Thurs at 4:30 in Rm 102  
+    * Marco Hatch from Western Washington Univ will be here on Jan 19
+    * Consider signing up for meetings, breakfast, or dinner
 
 
 # Students
@@ -31,6 +30,8 @@
     * Mark is inviting 2 students: Amirah Casey (MS), Sierra Joyner (PhD)  
     * Please let Mark know if you can go to lunch on Fri from 12:30-2:00 (maybe Ivar's?)  
     * Possible happy hour later on Fri
+    * Mark is looking for help:  
+        * 2 volunteers to be contacts/hosts for Amirah (Fri only) & Sierra
 
 
 # Post-docs
